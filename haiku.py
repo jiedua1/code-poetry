@@ -8,12 +8,12 @@
 " " "  5 5  77  5 5 " " "
 " " "   5   77   5  " " "
 _____this = " code makes a poem:"
-_____haiku = " run it for a treat"
+_____haiku = " run it for a treat?"
 print("\n(now) * (look) * (below), %s \
 \
 \
 \
 \
 \
-\nu%s\nmy%s\n"%(_____this[13:].upper(),
+\n%s u%s\nmy%s\n"%(_____this[13:].upper(), _____this[3:1:-1], 
  _____haiku, _____this[:-1]))
