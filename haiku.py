@@ -1,18 +1,19 @@
-# look, 5-7-5. 
+# look..., 5-7-5. 
 # 
-# haikus r EVERYWHERE here.
+# HAIKUS R EVERYWHERE HERE
 # 
-# in the code, & BEYOND !!!!!!!!
-"""   |     |  """
-"""   |     |  """
-"""  \ /   \ / """
-"""   v     v  """
-this = " code makes a poem"
-haiku = " run it for a treat"
-print("\n(NOW) * (LOOK), %s * (BELOW) \
+# in the code, (&) BEYOND !!!!!!!!
+" " "   5    7   5  " " "
+" " "   5   77   5  " " "
+" " "  5 5  77  5 5 " " "
+" " "   5   77   5  " " "
+_____this = " code makes a poem:"
+_____haiku = " run it for a treat"
+print("\n(now) * (look) * (below), %s \
 \
 \
 \
 \
 \
-...\nu%s\nmy%s\n"%(this[13:], haiku, this))
+\nu%s\nmy%s\n"%(_____this[13:].upper(),
+ _____haiku, _____this[:-1]))
